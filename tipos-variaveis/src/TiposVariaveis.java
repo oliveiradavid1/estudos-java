@@ -1,5 +1,5 @@
 public class TiposVariaveis {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
          //variaveis primitivas
         
          short numero = 1;  //usada para numeros curtos
